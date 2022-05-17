@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Yaml Language is best script for Cloud Automation
+=======
+DevOps is the best platform for automation
+>>>>>>> dev
